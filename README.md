@@ -9,7 +9,6 @@ I love to study and always be in front of new challenges, right now I'm studying
 In my free time I like to watch (🎞️), series (📺), drink beer (🍺) with my friends and parents.
 
 Would you like to find me?
-https://www.linkedin.com/in/jose-castor
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-castor)](https://www.linkedin.com/in/jose-castor)
 
